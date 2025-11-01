@@ -1,0 +1,26 @@
+OrderID,Date,Customer,Region,Product,Quantity,Sales
+1001,2024-01-05,Ravi Kumar,South,Laptop,2,120000
+1002,2024-01-06,Meena Sharma,North,Mouse,5,2500
+1003,2024-01-10,Arjun Singh,West,Keyboard,3,7500
+1004,2024-01-12,Anita Patel,East,Laptop,1,60000
+1005,2024-01-15,Suresh R,South,Headphones,4,8000
+1006,2024-01-20,Priya Joshi,North,Monitor,2,24000
+1007,2024-02-02,Rajesh Gupta,East,Keyboard,1,2500
+1008,2024-02-05,Nisha Rathi,South,Mouse,10,5000
+1009,2024-02-08,Harish Yadav,West,Laptop,1,63000
+1010,2024-02-15,Aditi Singh,North,Monitor,1,12000
+1011,2024-02-20,Rohit Jain,East,Laptop,3,180000
+1012,2024-03-01,Manoj Kumar,West,Headphones,2,4000
+1013,2024-03-05,Geeta Verma,South,Mouse,6,3000
+1014,2024-03-10,Vikram Rao,North,Printer,1,15000
+1015,2024-03-12,Deepa Nair,West,Keyboard,2,5000
+1016,2024-03-18,Kiran Kumar,East,Monitor,3,36000
+1017,2024-03-22,Sunita Sharma,South,Printer,1,14500
+1018,2024-04-01,Ajay Mehta,North,Laptop,2,126000
+1019,2024-04-04,Mohit Thakur,West,Mouse,8,4000
+1020,2024-04-07,Sarita Das,East,Keyboard,1,2500
+1021,2024-04-11,Anil Reddy,South,Monitor,2,26000
+1022,2024-04-15,Kajal Soni,North,Headphones,3,6000
+1023,2024-04-18,Ramesh T,East,Laptop,1,62000
+1024,2024-04-21,Sneha Iyer,South,Keyboard,4,10000
+1025,2024-04-25,Sameer Khan,West,Printer,1,15500
